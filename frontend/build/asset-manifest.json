@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/app/plugins/exclusive-widget/frontend/build/static/css/main.css",
+    "main.js": "/app/plugins/exclusive-widget/frontend/build/static/js/main.js",
+    "main.js.map": "/app/plugins/exclusive-widget/frontend/build/static/js/main.js.map",
+    "index.html": "/app/plugins/exclusive-widget/frontend/build/index.html",
+    "static/css/main.css.map": "/app/plugins/exclusive-widget/frontend/build/static/css/main.css.map",
+    "static/js/main.js.LICENSE.txt": "/app/plugins/exclusive-widget/frontend/build/static/js/main.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/css/main.css",
+    "static/js/main.js"
+  ]
+}
