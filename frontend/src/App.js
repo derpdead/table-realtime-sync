@@ -119,7 +119,6 @@ const App = () => {
       setInterval(() => {
         setPause(false);
       }, 5000);
-
     }
 
     return (
